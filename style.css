@@ -1,0 +1,96 @@
+hr{
+    background-color: aquamarine;
+}
+.nav-item {
+    padding-right: 10px;
+}
+
+.Contact {
+    padding-right: 15px;
+}
+
+.mepic {
+    border-radius: 50%;
+}
+
+body {
+    background: #314755;
+    background: -webkit-linear-gradient(to left, #26a0da, #314755);
+    background: linear-gradient(to left, #26a0da, #314755);
+}
+
+.image-coding {
+    float: left;
+    margin-right: 15px;
+    margin-left: 15px;
+    border-radius: 5%;
+}
+
+.image-hardware {
+    float: left;
+    margin-right: 15px;
+    margin-left: 15px;
+    border-radius: 5%;
+}
+
+.software {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.text-parag {
+    padding-left: 15px;
+    padding-bottom: 30px;
+    text-align: justify;
+    width: 70%;
+}
+
+.hardware-part {
+    clear: both;
+    padding-top: 30px;
+    background: #00467F;
+    background: -webkit-linear-gradient(to left, #A5CC82, #00467F);
+    background: linear-gradient(to left, #A5CC82, #00467F);
+    overflow: hidden; /* Add this line to contain floated elements */
+}
+
+#skills {
+    background: #00467F;
+    background: -webkit-linear-gradient(to left, #A5CC82, #00467F);
+    background: linear-gradient(to left, #A5CC82, #00467F);
+}
+.contactparag{
+    text-align: center;
+    justify-content: center;
+}
+
+
+.Contactme{
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 100px;
+}
+.contactmeh1{
+    padding-top: 40px;
+}
+/* Style the button */
+.emailme {
+    /* Add any additional styling you want for the button here */
+    padding: 10px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
